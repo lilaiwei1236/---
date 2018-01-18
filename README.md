@@ -1,5 +1,5 @@
 #   --------------   淘宝助手-嗨爆抢购,低折出售！  -------------
-!()[http:]
+![](https://github.com/lilaiwei1236/Lucky/blob/master/taobaoassistant.png)
 
 ## [产品特色]
 1. 精品时尚服饰美图，叫你如何穿衣搭配哦
