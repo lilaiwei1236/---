@@ -1,6 +1,6 @@
 #       TB ASSISTANT Hi-BANG SNAP,LOW DISCOIUNT！
 
-![](https://github.com/lilaiwei1236/Lucky/blob/master/taobaoassistant.png)
+![](https://github.com/lilaiwei1236/Lucky/blob/master/taobaoassistant1.png)
 
 ## [product characteristics]
 
@@ -24,3 +24,4 @@ In March 29, 2016, the Alibaba group CEO Zhang Yong made a clear strategy for Ta
 
 * PhoneNumber:+8618704397673
 
+11
